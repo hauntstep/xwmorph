@@ -1,0 +1,4 @@
+#!/bin/sh
+vcompmgr -Z 1 2>/dev/null
+pkill vcompmgr
+pgrep -x picom >/dev/null || picom -b

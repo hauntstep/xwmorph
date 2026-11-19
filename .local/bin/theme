@@ -1,0 +1,4 @@
+#!/bin/sh
+wal -n --backend haishoku -i "$1"
+xrdb -merge ~/.cache/wal/colors.Xresources
+feh --bg-fill "$1"
