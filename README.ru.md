@@ -40,7 +40,7 @@ cd ~/xwmorph
 
 ## ручная установка
 
-### 1.зЗависимости (Gentoo)
+### 1.зависимости (Gentoo)
 
 ```
 sudo emerge --ask x11-base/xorg-server x11-apps/xinit x11-apps/xrandr \
