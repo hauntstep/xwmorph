@@ -1,5 +1,7 @@
 # xwmorph
 
+(for different asks text me on telegram: @hauntstep)
+
 [Русская версия](README.ru.md)
 
 A ready-to-use desktop setup based on **vxwm** (X11): an infinite floating canvas, dual-monitor support, wallpaper-derived colors (pywal), the picom compositor with animations, and a zoom mode powered by vcompmgr.
